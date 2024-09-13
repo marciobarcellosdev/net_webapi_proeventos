@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xDFA1eyUZzzVfl2rLvEtdvbuFIZZxR/+rI9s50d9dn4m9JqpABjTycN8f0kVzgJauuOq4veUFzPKXsAcEw9Btg==",
+  "success": true,
+  "projectFilePath": "E:\\_ARQUIVOS_CLOUD\\___DEVELOPER\\_Dev_Angular\\net_webapi_proeventos\\back\\src\\proeventos.api\\ProEventos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\marcb\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\marcb\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\marcb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\marcb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\marcb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
