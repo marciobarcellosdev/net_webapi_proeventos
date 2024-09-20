@@ -12,7 +12,7 @@ namespace ProEventos.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class EventoController : ControllerBase
+    public class EventosController : ControllerBase
     {
         // public IEnumerable<Evento> _evento = new Evento[]{
         //     new Evento(){
@@ -37,7 +37,7 @@ namespace ProEventos.API.Controllers
         
         private readonly DataContext _context;
     
-        public EventoController(DataContext context)
+        public EventosController(DataContext context)
         {
             _context = context;
             

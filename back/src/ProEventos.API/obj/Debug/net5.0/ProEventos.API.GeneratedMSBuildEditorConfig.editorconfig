@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ProEventos.API
-build_property.ProjectDir = e:\_ARQUIVOS_CLOUD\___DEVELOPER\_Dev_Angular\net_webapi_proeventos\back\src\ProEventos.API\
+build_property.ProjectDir = E:\_ARQUIVOS_CLOUD\___DEVELOPER\_Dev_Angular\net_webapi_proeventos\back\src\ProEventos.API\
